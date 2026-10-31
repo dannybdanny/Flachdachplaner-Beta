@@ -13,7 +13,7 @@ Mit dem FlachdachPlaner planst du Gefälledämmungen für Flachdächer und erste
 
 ## Beta-Version herunterladen
 
-Die Installationsdatei findest du unter [Releases](../../releases).
+Die Installationsdatei findest du unter [FlachdachPlaner-Downloads](https://github.com/dannybdanny/Flachdachplaner-Beta/releases).
 
 Die Beta-Version dient der praktischen Erprobung. Hinweise zu Funktionen und Rückmeldungen findest du auf der [offiziellen Website](https://flachdach-planer.de).
 
