@@ -1,31 +1,22 @@
 # FlachdachPlaner
 
-**Professionelle Gefälleplanung für das Dachdeckerhandwerk.**
+**Digitale Gefälleplanung für das Dachdeckerhandwerk.**
 
-Der FlachdachPlaner ist eine Windows-Anwendung zur digitalen Planung von Gefälledämmungen auf Flachdächern.
+Mit dem FlachdachPlaner planst du Gefälledämmungen für Flachdächer und erstellst die dazugehörigen Verlegepläne und Materiallisten.
 
-### Funktionen
+## Funktionen
 
-- Automatische Gefälleberechnung
-- Erstellung übersichtlicher Verlegepläne
-- Automatische Material- und Bestelllisten
-- Berücksichtigung von Dachabläufen und Dachaufbauten
-- PDF-Ausgabe der Planung
+- Gefällepläne automatisch berechnen
+- Dachabläufe und Dachaufbauten berücksichtigen
+- Plattenbedarf und Bestelllisten erstellen
+- Verlegepläne als PDF ausgeben
 
-### Download
+## Beta-Version herunterladen
 
-Die aktuellen, offiziell freigegebenen Beta-Versionen stehen im Bereich **Releases** dieses Repositorys zur Verfügung.
+Die Installationsdatei findest du unter [Releases](../../releases).
 
-**Offizielle Website:** https://flachdach-planer.de
-
-### Hinweise zur Beta-Version
-
-Die Software befindet sich in der Testphase. Funktionen können weiterentwickelt und optimiert werden.
-
-Feedback und Verbesserungsvorschläge sind willkommen.
+Die Beta-Version dient der praktischen Erprobung. Hinweise zu Funktionen und Rückmeldungen findest du auf der [offiziellen Website](https://flachdach-planer.de).
 
 ---
 
-© DB Smart Solutions – Alle Rechte vorbehalten.
-
-Dieses Repository dient ausschließlich der Bereitstellung offizieller Softwareversionen. Der Quellcode ist nicht öffentlich zugänglich.
+© DB Smart Solutions. Alle Rechte vorbehalten.
